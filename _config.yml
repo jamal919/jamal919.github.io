@@ -4,7 +4,8 @@ url: https://jamal919.github.io
 
 # Settings
 markdown: kramdown
-permalink: /:title/
+permalink: /:categories/:year/:month/:title
+paginate: 5
 
 
 # Excludes

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+permalink: /publications/
 ---
 ## 2020
 * ***Khan, M. J. U.***; Islam, A. K. M. S.; Bala, S. K. & Islam, G. M. T. (2020) [Changes in climate extremes over Bangladesh at 1.5C, 2C, and 4C of global warming with high-resolution regional climate modeling](https://dx.doi.org/10.1007/s00704-020-03164-w). Theoretical and Applied Climatology, Springer Science and Business Media LLC, 2020. doi: 10.1007/s00704-020-03164-w

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Homepage
+permalink: /
 ---
 
 Congrats! You have found the page of Jamal Khan in the heystack of the web! 
