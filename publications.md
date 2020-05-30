@@ -1,4 +1,7 @@
-# Publications
+---
+layout: page
+title: Publications
+---
 ## 2020
 * Becker, M., Papa, F., Karpytchev, M., Delebecque, C., Krien, Y., ***Khan, J. U.***, Ballu, V., Durand, F., Cozannet, G. L., Islam, A. K. M. S., Calmant, S. & Shum, C. K. [Water level changes, subsidence, and sea level rise in the Ganges–Brahmaputra–Meghna delta](https://dx.doi.org/10.1073/pnas.1912921117), Proceedings of the National Academy of Sciences, 2020 , 201912921, doi:10.1073/pnas.1912921117
 
