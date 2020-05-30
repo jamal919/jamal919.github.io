@@ -2,19 +2,27 @@
     <meta charset="utf-8">
 
     {% if page.short_title %}
-        {% assign title = page.short_title %}
+    {% assign title = page.short_title %}
     {% elsif page.title  %}
-        {% assign title = page.title %}
+    {% assign title = page.title %}
     {% else site.title %}
-        {% assign title = site.title %}
+    {% assign title = site.title %}
     {% endif %}
 
     <title>
         {% if page.title %}
-            {{ page.title }} &middot; {{ site.title }}
+        {{ page.title }} &middot; {{ site.title }}
         {% else  %}
-            {{ site.title }}
+        {{ site.title }}
         {% endif %}
     </title>
-  
+
+    <link rel="stylesheet" href="/main.css">
+    <link
+        href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic&subset=latin,latin-ext'
+        rel='stylesheet' type='text/css'>
+    <link
+        href='https://fonts.googleapis.com/css?family=Source+Code+Pro:200,300,400,500,600,700,900&subset=latin,latin-ext'
+        rel='stylesheet' type='text/css'>
+
 </head>
