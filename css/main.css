@@ -28,8 +28,22 @@ a:hover {
 /* Elements */
 
 #content {
-    max-width: 40rem;
+    max-width: 50rem;
     margin: auto;
     margin-bottom: 2rem;
     padding: 1rem 1rem 0 1rem;
 }
+
+#nav-bg {
+    margin: 0;
+    padding: 0.25rem 1rem;
+    font-family: "Source Code Pro", "DejaVu Sans Mono", "Lucida Console", monospace;
+    background: #006444;
+    color: #fff;
+  }
+  
+  #top-nav {
+    max-width: 55rem;
+    margin: auto;
+    text-align: center;
+  }
