@@ -37,10 +37,6 @@ a:hover {
 
 /* Elements */
 
-#logo {
-    font-size: 1.25rem;
-}
-
 #content {
     max-width: 50rem;
     margin: auto;
