@@ -6,7 +6,7 @@ permalink: /
 
 Hello! Bonjour! Hola! You have found the homepage of Jamal Khan. If you are here by choice, I hope you find what you are looking for. If you are here by accident and do not feel furthur curiosity, back button of the browser will take you back to your familier webpage. If you came here by accident but still wants to know a bit more then let me introduce myself in a bit more details...
 
-I am a civil engineer by training and a researcher by day. My research topic is earth science, with a focus on nearshore and surfzone hydrodynamics. While my understanding of the physics of the waves are somewhat exists, I am still on the process of learning how to surf an actual one. I love programming, numerical modeling, low-cost computing, and discussing science and philosophy with people. I like to advocate for open-source softwares and reproducible research.
+I am a civil engineer by training and a researcher by day. My research topic is earth science, with a focus on nearshore and surfzone hydrodynamics. While my understanding of the physics of the waves somewhat exists, I am still on the process of learning how to surf an actual one. I love programming, numerical modeling, low-cost computing, and discussing science and philosophy with people. I like to advocate for open-source softwares and reproducible research.
 
 My favorite food is mustard-ilish, favorite harry potter charecter is Professor Snape, favorite programming language is python. I am very enthusiast about web technologies, sensitive about social networks and privacy issues, passionate about science and technologies.
 
