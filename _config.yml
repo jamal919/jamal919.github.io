@@ -1,0 +1,10 @@
+# Setup
+title: Delta U / Delta t
+
+# Settings
+markdown: kramdown
+
+
+# Excludes
+exclude:
+    - README.md

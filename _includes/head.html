@@ -1,0 +1,20 @@
+<head>
+    <meta charset="utf-8">
+
+    {% if page.short_title %}
+        {% assign title = page.short_title %}
+    {% elsif page.title  %}
+        {% assign title = page.title %}
+    {% else site.title %}
+        {% assign title = site.title %}
+    {% endif %}
+
+    <title>
+        {% if page.title %}
+            {{ page.title }} &middot; {{ site.title }}
+        {% else  %}
+            {{ site.title }}
+        {% endif %}
+    </title>
+  
+</head>
