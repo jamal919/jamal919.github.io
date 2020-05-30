@@ -25,6 +25,16 @@ a:hover {
     background-color: #006444;
 }
 
+/* Classes */
+
+.center {
+    text-align: center;
+}
+
+.small {
+    font-size: 0.75rem;
+}
+
 /* Elements */
 
 #content {
