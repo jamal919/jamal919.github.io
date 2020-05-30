@@ -3,6 +3,7 @@ layout: page
 title: Publications
 ---
 ## 2020
+* ***Khan, M. J. U.***; Islam, A. K. M. S.; Bala, S. K. & Islam, G. M. T. (2020) [Changes in climate extremes over Bangladesh at 1.5C, 2C, and 4C of global warming with high-resolution regional climate modeling](https://dx.doi.org/10.1007/s00704-020-03164-w). Theoretical and Applied Climatology, Springer Science and Business Media LLC, 2020. doi: 10.1007/s00704-020-03164-w
 * Becker, M., Papa, F., Karpytchev, M., Delebecque, C., Krien, Y., ***Khan, J. U.***, Ballu, V., Durand, F., Cozannet, G. L., Islam, A. K. M. S., Calmant, S. & Shum, C. K. [Water level changes, subsidence, and sea level rise in the Ganges–Brahmaputra–Meghna delta](https://dx.doi.org/10.1073/pnas.1912921117), Proceedings of the National Academy of Sciences, 2020 , 201912921, doi:10.1073/pnas.1912921117
 
 ## 2019
@@ -15,7 +16,7 @@ title: Publications
 ## 2018
 * Krien, Y.; Arnaud, G.; Cécé, R.; Ruf, C.; Belmadani, A.; ***Khan, J.***; Bernard, D.; Islam, A.S.; Durand, F.; Testut, L.; Palany, P.; Zahibo, N.(2018) [Can We Improve Parametric Cyclonic Wind Fields Using Recent Satellite Remote Sensing Data?](https://www.mdpi.com/2072-4292/10/12/1963).</a> Remote Sens., 10, 1963.
 * Mohammed, K, Islam A.S., Islam, G.M.T., Alferi, L., Bala S.K., ***Khan, M.J.U.*** (2018) [Future floods in Bangladesh under 1.5°C, 2°C and 4°C global warming scenarios](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29HE.1943-5584.0001705). Journal of Hydrological Engineering, 23(12), 04018050. doi:10.1061/%28ASCE%29HE.1943-5584.0001705
-* Bergmann, M., Durand, F., Krien, Y., ***Khan, M.J.U.***, Ishaque, M., Testus, L., Calmant, S., Maisongrande, P., Islam, A.K.M.S., Papa, F., Ouillon, S. (2018) [Topography of the intertidal zone along the shoreline of Chittagong (Bangladesh) using PROBA-V imagery] (https://www.tandfonline.com/doi/abs/10.1080/01431161.2018.1504341). International Journal of Remote Sensing, 1-21., doi: 10.1080/01431161.2018.1504341
+* Bergmann, M., Durand, F., Krien, Y., ***Khan, M.J.U.***, Ishaque, M., Testus, L., Calmant, S., Maisongrande, P., Islam, A.K.M.S., Papa, F., Ouillon, S. (2018) [Topography of the intertidal zone along the shoreline of Chittagong (Bangladesh) using PROBA-V imagery](https://www.tandfonline.com/doi/abs/10.1080/01431161.2018.1504341). International Journal of Remote Sensing, 1-21., doi: 10.1080/01431161.2018.1504341
 
 ## 2017
 * Das, M.K., Das, S., Karmakar, S., Islam, A.K.M.S., ***Khan, M.J.U.***, Chowdhury, M.A.M. (2017) [Simulation of dynamical features of squalls over Bangladesh during the Pre-monsoon season](https://www.researchgate.net/profile/Samarendra_Karmakar/publication/321572916_SIMULATION_OF_DYNAMICAL_FEATURES_OF_SQUALLS_OVER_BANGLADESH_DURING_THE_PRE-MONSOON_SEASON/links/5a277479aca2727dd883ab71/SIMULATION-OF-DYNAMICAL-FEATURES-OF-SQUALLS-OVER-BANGLADESH-DURING-THE-PRE-MONSOON-SEASON.pdf). Journal of NOAMI, 34 (1), pp 39-55
