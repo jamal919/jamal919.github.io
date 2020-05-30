@@ -5,8 +5,7 @@ url: https://jamal919.github.io
 # Settings
 markdown: kramdown
 permalink: /:categories/:year/:month/:title
-paginate: 5
-
+excerpt_separator: <!--more-->
 
 # Excludes
 exclude:

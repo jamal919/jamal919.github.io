@@ -4,7 +4,7 @@ title: Should we care about destiny?
 category: thoughts
 ---
 I know a person, over the internet of course. He is kind, gentle, and very much hardworking. His life is full of miseries but what he achieved is enough to make your hat off. We had very few conversation, may be because of my lacking in social skills. But whenever I talk to him I feel an unknown type of respect for him. Its like when someone fly a plane without any kind of training or do some test perfectly without knowing the basic science or more generally when someone do something what I can’t do being more capable of him/her.
-
+<!--more-->
 There is one thing though bother me much – he always speaks like he is unwanted in this world, everybody hates him. I can’t blame him because the environment he works is not actually that much good to be appreciated. But why I should care about what other thinks, especially when it affects mentally in a negative way? There are some reason of course, isn’t there ?
 
 There is one other thing that people care too much about - density. Sometimes it feels like we think about our destiny like its something hardcoded. We try to evaluate wheater we are going to reach our destiny or not based on our current condition. It works like a catalyst for the frustration reaction! We do bad at some point and think we are lost. But I always picture destiny is the final evaluation and it is not affected by the intermediate path ( sounds like hess’s law, isn’t it ? ). Lets try a quote from the movie “The Last Samurai”  –
