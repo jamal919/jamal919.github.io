@@ -2,6 +2,7 @@
 layout: post
 title: Should we care about destiny?
 category: thoughts
+city: La Rochelle
 ---
 I know a person, over the internet of course. He is kind, gentle, and very much hardworking. His life is full of miseries but what he achieved is enough to make your hat off. We had very few conversation, may be because of my lacking in social skills. But whenever I talk to him I feel an unknown type of respect for him. Its like when someone fly a plane without any kind of training or do some test perfectly without knowing the basic science or more generally when someone do something what I can’t do being more capable of him/her.
 <!--more-->
