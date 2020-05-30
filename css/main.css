@@ -40,10 +40,20 @@ a:hover {
     font-family: "Source Code Pro", "DejaVu Sans Mono", "Lucida Console", monospace;
     background: #006444;
     color: #fff;
-  }
-  
-  #top-nav {
+}
+
+#top-nav {
     max-width: 55rem;
     margin: auto;
     text-align: center;
-  }
+}
+
+#top-nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#top-nav a:hover {
+    color: #000;
+    background-color: #fff;
+}
