@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 ## 2020
+* ***Khan, Jamal Uddin***; Islam, A. K. M. Saiful; Das, Mohan K.; Mohammed, Khaled; Bala, Sujit Kumar & Islam, G. M. Tarekul (2020) [Future changes in meteorological drought characteristics over Bangladesh projected by the CMIP5 multi-model ensemble](https://dx.doi.org/10.1007/s10584-020-02832-0). Climatic Change, 2020. doi: 10.1007/s10584-020-02832-0
 * ***Khan, M. J. U.***; Islam, A. K. M. S.; Bala, S. K. & Islam, G. M. T. (2020) [Changes in climate extremes over Bangladesh at 1.5C, 2C, and 4C of global warming with high-resolution regional climate modeling](https://dx.doi.org/10.1007/s00704-020-03164-w). Theoretical and Applied Climatology, Springer Science and Business Media LLC, 2020. doi: 10.1007/s00704-020-03164-w
 * Becker, M., Papa, F., Karpytchev, M., Delebecque, C., Krien, Y., ***Khan, J. U.***, Ballu, V., Durand, F., Cozannet, G. L., Islam, A. K. M. S., Calmant, S. & Shum, C. K. [Water level changes, subsidence, and sea level rise in the Ganges–Brahmaputra–Meghna delta](https://dx.doi.org/10.1073/pnas.1912921117), Proceedings of the National Academy of Sciences, 2020 , 201912921, doi:10.1073/pnas.1912921117
 
