@@ -3,26 +3,26 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
-<!-- This loops through blog posts -->
-{% for post in site.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="small">
-    <span>{{ post.date | date: "%A, %B %d, %Y" }}</span>
-    <span> | </span>
-    {% if post %}
-    {% assign categories = post.categories %}
-    {% else %}
-    {% assign categories = page.categories %}
-    {% endif %}
-    <span>
-    Category: 
-    {% for category in categories %}
-    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-    {% unless forloop.last %}&nbsp;{% endunless %}
-    {% endfor %}
-    </span>
-  </p>
-  <div class="content">
-    {{ post.excerpt }}
-  </div>
-{% endfor %}
+{%- if site.posts.size > 0 -%}
+    <p class="h4">{{ page.list_title | default: "Posts" }}</p>
+    <ul class="list-unstyled">
+      {%- for post in site.posts -%}
+      <li>
+        <span class="text-muted">
+          {%- assign date_format = "%b %-d, %Y" -%}
+          {{ post.date | date: date_format }}
+        </span>
+        <p class="h5">
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </p>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
