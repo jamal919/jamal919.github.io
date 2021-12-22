@@ -23,6 +23,11 @@ github_username: jamal919
 
 #repository: "nicolas-van/bootstrap-4-github-pages"
 
+# Settings
+markdown: kramdown
+permalink: /:year/:month/:title
+excerpt_separator: <!--more-->
+
 # Build settings
 plugins:
   - jekyll-feed
