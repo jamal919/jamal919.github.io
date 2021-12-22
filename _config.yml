@@ -28,11 +28,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# A list of the pages to display in the navigation bar
-header_pages:
-  - blog
-  - publications
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

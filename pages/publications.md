@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: Publications
+permalink: /publications/
 ---
 
 ## 2021
