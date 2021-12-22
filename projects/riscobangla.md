@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RiscoBangla
+title: RISque COtier BANGLAdesh (RISCOBANGLA)
 permalink: /projects/riscobangla
 ---
 RiscoBangla

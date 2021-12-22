@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bandino
+title: BANgladesh Dynamique Des INOndations (BANDINO)
 permalink: /projects/bandino
 ---
 Bandino
