@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 ## 2021
+* **Khan, M. J. U.**, Durand, F., Emanuel, K., Krien, Y., Testut, L., and Islam, A. K. M. S. (2021) [Storm surge hazard over Bengal delta: A probabilistic-deterministic modelling approach](https://doi.org/10.5194/nhess-2021-329), Nat. Hazards Earth Syst. Sci. Discuss. (preprint, in review), doi:10.5194/nhess-2021-329.
 
 * Bernard, A.; Long, N.; Becker, M.; **Khan, J.**; and Fanchette, S. (2021) [Bangladesh's vulnerability to cyclonic coastal flooding](https://doi.org/10.5194/nhess-2021-8). Nat. Hazards Earth Syst. Sci. Discuss. (preprint, in review), doi:10.5194/nhess-2021-8.
 
