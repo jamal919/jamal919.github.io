@@ -5,11 +5,11 @@ permalink: /publications/
 ---
 
 ## 2021
-* **Khan, M. J. U.**, Durand, F., Emanuel, K., Krien, Y., Testut, L., and Islam, A. K. M. S. (2021) [Storm surge hazard over Bengal delta: A probabilistic-deterministic modelling approach](https://doi.org/10.5194/nhess-2021-329), Nat. Hazards Earth Syst. Sci. Discuss. (preprint, in review), doi:10.5194/nhess-2021-329.
+* **Khan, M. J. U.**, Durand, F., Emanuel, K., Krien, Y., Testut, L., and Islam, A. K. M. S. (2022) [Storm surge hazard over Bengal delta: a probabilistic–deterministic modelling approach](https://doi.org/10.5194/nhess-22-2359-2022), Nat. Hazards Earth Syst. Sci., 22, 2359–2379, doi:10.5194/nhess-22-2359-2022.
 
-* Bernard, A.; Long, N.; Becker, M.; **Khan, J.**; and Fanchette, S. (2021) [Bangladesh's vulnerability to cyclonic coastal flooding](https://doi.org/10.5194/nhess-2021-8). Nat. Hazards Earth Syst. Sci. Discuss. (preprint, in review), doi:10.5194/nhess-2021-8.
+* Bernard, A.; Long, N.; Becker, M.; **Khan, J.**; and Fanchette, S. (2022) [Bangladesh's vulnerability to cyclonic coastal flooding](https://doi.org/10.5194/nhess-22-729-2022). Nat. Hazards Earth Syst. Sci., 22, 729–751, doi:10.5194/nhess-22-729-2022.
 
-* **Khan, M. J. U.**; Durand, F.; Bertin, X.; Testut, L.; Krien, Y.; Islam, A. K. M. S.; Pezerat, M.; and Hossain, S. (2021) [Towards an efficient storm surge and inundation forecasting system over the Bengal delta: Chasing the super-cyclone Amphan](https://dx.doi.org/10.5194/nhess-2020-340). Nat. Hazards Earth Syst. Sci. Discuss. (preprint, in review). doi:10.5194/nhess-2020-340.
+* **Khan, M. J. U.**; Durand, F.; Bertin, X.; Testut, L.; Krien, Y.; Islam, A. K. M. S.; Pezerat, M.; and Hossain, S. (2021) [Towards an efficient storm surge and inundation forecasting system over the Bengal delta: chasing the Supercyclone Amphan](https://dx.doi.org/10.5194/nhess-21-2523-2021). Nat. Hazards Earth Syst. Sci., 21, 2523–2541, doi:10.5194/nhess-21-2523-2021.
 
 * Roy, B.; Khan, M. S. M.; Islam, A. K. M. S.; Mohammed, K.; **Khan, M. J. U.** (2021) [Climate‑induced food inundation for the Arial Khan River of Bangladesh using open‑source SWAT and HEC‑RAS model for RCP8.5‑SSP5 scenario](https://doi.org/10.1007/s42452-021-04460-4). SN Appl. Sci. 3, 648 (2021). doi:10.1007/s42452-021-04460-4
 
